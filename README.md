@@ -16,17 +16,11 @@ Hello Everyone! 🌟 I'm **Ayuni**, a passionate developer with a love for:
 
 ---
 
-## ✨ Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_title=true" alt="GitHub Stats" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gruvbox" alt="GitHub Streak Stats" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox" alt="Top Languages" height="150px"/>
-</p>
 
 ---
 
----
+
 
 ---
 
