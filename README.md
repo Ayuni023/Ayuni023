@@ -26,15 +26,6 @@ Hello Everyone! 🌟 I'm **Ayuni**, a passionate developer with a love for:
 
 ---
 
-## 🌟 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/Code-Node.js-green?style=flat&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react&logoColor=white" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Love-Bunnies-pink?style=flat&logo=rabbitmq&logoColor=white" alt="Bunnies Badge"/>
-</p>
-
 ---
 
 ---
