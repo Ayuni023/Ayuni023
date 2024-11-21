@@ -16,4 +16,3 @@ Hi there! 🌟 I'm [Ayuni] 👩‍💻, a passionate developer who loves:
 <p align="center">
   🌿✨ “The earth has music for those who listen.” – Shakespeare ✨🌿
 </p>
-```
