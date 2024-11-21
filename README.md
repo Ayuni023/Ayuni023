@@ -3,9 +3,7 @@
 
 ---
 
-## 🌼 About Me
-
-Hi there! 🌟 I'm [Ayuni] 👩‍💻, a passionate developer who loves:
+Hello Everyone! 🌟 I'm Ayuni, a passionate developer who loves:
 - 🍃 Exploring the beauty of **nature**
 - 🐰 Collecting cute **bunny-themed** items
 - 🌟 Learning and building **creative projects**
