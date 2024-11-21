@@ -18,7 +18,6 @@ Hello Everyone! 🌟 I'm **Ayuni**, a passionate developer with a love for:
 
 
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/RhiDiz8DsS8pe/giphy.gif" alt="Cute Bunny GIF" width="30%"/>
